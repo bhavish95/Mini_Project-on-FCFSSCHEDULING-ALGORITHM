@@ -1,1 +1,2 @@
 # Mini_Project-on-FCFSSCHEDULING-ALGORITHM
+This is a mini project that helps users to find out the solution of problems based onFCFS Scheduling Algorithm.With this project, we can perform the basic problems that we do in our day-to-day life. The entire project is implemented using the C programming language. The source code of this project is around 85 lines and included in this report. The majority of the task is implemented using functions and files. Files are used for storing the user information and the tasks are implemented through functions.
